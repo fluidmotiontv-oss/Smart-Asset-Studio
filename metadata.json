@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign 3D Ecosystem",
+  "description": "Horizon Engine-powered spatial interface for the Dragon 9 ecosystem, featuring real-time node telemetry, frequency healing, and sovereign asset management.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
